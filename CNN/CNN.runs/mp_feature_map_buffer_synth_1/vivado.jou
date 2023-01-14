@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2021.1 (64-bit)
+# SW Build 3247384 on Thu Jun 10 19:36:33 MDT 2021
+# IP Build 3246043 on Fri Jun 11 00:30:35 MDT 2021
+# Start of session at: Thu Sep  1 16:38:54 2022
+# Process ID: 6356
+# Current directory: E:/Zedboard/CNN/CNN/CNN.runs/mp_feature_map_buffer_synth_1
+# Command line: vivado.exe -log mp_feature_map_buffer.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source mp_feature_map_buffer.tcl
+# Log file: E:/Zedboard/CNN/CNN/CNN.runs/mp_feature_map_buffer_synth_1/mp_feature_map_buffer.vds
+# Journal file: E:/Zedboard/CNN/CNN/CNN.runs/mp_feature_map_buffer_synth_1\vivado.jou
+#-----------------------------------------------------------
+source mp_feature_map_buffer.tcl -notrace

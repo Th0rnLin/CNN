@@ -1,0 +1,25 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../CNN.gen/sources_1/ip/fc_feature_map_buffer/sim/fc_feature_map_buffer.v" \
+"../../../../CNN.gen/sources_1/ip/mp_feature_map_buffer/sim/mp_feature_map_buffer.v" \
+"../../../../CNN.gen/sources_1/ip/conv_feature_map_buffer/sim/conv_feature_map_buffer.v" \
+"../../../../CNN.gen/sources_1/ip/input_image/sim/input_image.v" \
+"../../../../CNN.srcs/sources_1/new/CNN_top.v" \
+"../../../../CNN.srcs/sources_1/new/conv_line_buffer.v" \
+"../../../../CNN.srcs/sources_1/new/conv_processing_element.v" \
+"../../../../CNN.srcs/sources_1/new/conv_top.v" \
+"../../../../CNN.srcs/sources_1/new/conv_weights_memory.v" \
+"../../../../CNN.srcs/sources_1/new/fc_input_buffer.v" \
+"../../../../CNN.srcs/sources_1/new/fc_processing_element.v" \
+"../../../../CNN.srcs/sources_1/new/fc_weights_memory.v" \
+"../../../../CNN.srcs/sources_1/new/fully_connected_top.v" \
+"../../../../CNN.srcs/sources_1/new/max_pooling_top.v" \
+"../../../../CNN.srcs/sources_1/new/mp_line_buffer.v" \
+"../../../../CNN.srcs/sources_1/new/mp_max.v" \
+"../../../../CNN.srcs/sim_1/new/CNN_top_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

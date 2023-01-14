@@ -1,0 +1,24 @@
+0.7
+2020.2
+Jun 10 2021
+20:04:57
+E:/Zedboard/CNN/CNN/CNN.gen/sources_1/ip/conv_feature_map_buffer/sim/conv_feature_map_buffer.v,1662021505,verilog,,E:/Zedboard/CNN/CNN/CNN.gen/sources_1/ip/input_image/sim/input_image.v,,conv_feature_map_buffer,,,,,,,,
+E:/Zedboard/CNN/CNN/CNN.gen/sources_1/ip/conv_mult/sim/conv_mult.vhd,1662021302,vhdl,,,,conv_mult,,,,,,,,
+E:/Zedboard/CNN/CNN/CNN.gen/sources_1/ip/fc_feature_map_buffer/sim/fc_feature_map_buffer.v,1662021547,verilog,,E:/Zedboard/CNN/CNN/CNN.gen/sources_1/ip/mp_feature_map_buffer/sim/mp_feature_map_buffer.v,,fc_feature_map_buffer,,,,,,,,
+E:/Zedboard/CNN/CNN/CNN.gen/sources_1/ip/fc_mult/sim/fc_mult.vhd,1662021401,vhdl,,,,fc_mult,,,,,,,,
+E:/Zedboard/CNN/CNN/CNN.gen/sources_1/ip/input_image/sim/input_image.v,1662350816,verilog,,E:/Zedboard/CNN/CNN/CNN.srcs/sources_1/new/CNN_top.v,,input_image,,,,,,,,
+E:/Zedboard/CNN/CNN/CNN.gen/sources_1/ip/mp_feature_map_buffer/sim/mp_feature_map_buffer.v,1662021527,verilog,,E:/Zedboard/CNN/CNN/CNN.gen/sources_1/ip/conv_feature_map_buffer/sim/conv_feature_map_buffer.v,,mp_feature_map_buffer,,,,,,,,
+E:/Zedboard/CNN/CNN/CNN.sim/sim_1/behav/xsim/glbl.v,1623370582,verilog,,,,glbl,,,,,,,,
+E:/Zedboard/CNN/CNN/CNN.srcs/sim_1/new/CNN_top_tb.v,1662021769,verilog,,,,CNN_top_tb,,,,,,,,
+E:/Zedboard/CNN/CNN/CNN.srcs/sources_1/new/CNN_top.v,1662021744,verilog,,E:/Zedboard/CNN/CNN/CNN.srcs/sources_1/new/conv_line_buffer.v,,CNN_top,,,,,,,,
+E:/Zedboard/CNN/CNN/CNN.srcs/sources_1/new/conv_line_buffer.v,1662021724,verilog,,E:/Zedboard/CNN/CNN/CNN.srcs/sources_1/new/conv_processing_element.v,,conv_line_buffer,,,,,,,,
+E:/Zedboard/CNN/CNN/CNN.srcs/sources_1/new/conv_processing_element.v,1663418450,verilog,,E:/Zedboard/CNN/CNN/CNN.srcs/sources_1/new/conv_top.v,,conv_processing_element,,,,,,,,
+E:/Zedboard/CNN/CNN/CNN.srcs/sources_1/new/conv_top.v,1662021734,verilog,,E:/Zedboard/CNN/CNN/CNN.srcs/sources_1/new/conv_weights_memory.v,,conv_top,,,,,,,,
+E:/Zedboard/CNN/CNN/CNN.srcs/sources_1/new/conv_weights_memory.v,1662021676,verilog,,E:/Zedboard/CNN/CNN/CNN.srcs/sources_1/new/fc_input_buffer.v,,conv_weights_memory,,,,,,,,
+E:/Zedboard/CNN/CNN/CNN.srcs/sources_1/new/fc_input_buffer.v,1662021652,verilog,,E:/Zedboard/CNN/CNN/CNN.srcs/sources_1/new/fc_processing_element.v,,fc_input_buffer,,,,,,,,
+E:/Zedboard/CNN/CNN/CNN.srcs/sources_1/new/fc_processing_element.v,1662021629,verilog,,E:/Zedboard/CNN/CNN/CNN.srcs/sources_1/new/fc_weights_memory.v,,fc_processing_element,,,,,,,,
+E:/Zedboard/CNN/CNN/CNN.srcs/sources_1/new/fc_weights_memory.v,1662021608,verilog,,E:/Zedboard/CNN/CNN/CNN.srcs/sources_1/new/fully_connected_top.v,,fc_weights_memory,,,,,,,,
+E:/Zedboard/CNN/CNN/CNN.srcs/sources_1/new/fully_connected_top.v,1662021663,verilog,,E:/Zedboard/CNN/CNN/CNN.srcs/sources_1/new/max_pooling_top.v,,fully_connected_top,,,,,,,,
+E:/Zedboard/CNN/CNN/CNN.srcs/sources_1/new/max_pooling_top.v,1662021588,verilog,,E:/Zedboard/CNN/CNN/CNN.srcs/sources_1/new/mp_line_buffer.v,,max_pooling_top,,,,,,,,
+E:/Zedboard/CNN/CNN/CNN.srcs/sources_1/new/mp_line_buffer.v,1662021577,verilog,,E:/Zedboard/CNN/CNN/CNN.srcs/sources_1/new/mp_max.v,,mp_line_buffer,,,,,,,,
+E:/Zedboard/CNN/CNN/CNN.srcs/sources_1/new/mp_max.v,1662021561,verilog,,E:/Zedboard/CNN/CNN/CNN.srcs/sim_1/new/CNN_top_tb.v,,mp_max,,,,,,,,

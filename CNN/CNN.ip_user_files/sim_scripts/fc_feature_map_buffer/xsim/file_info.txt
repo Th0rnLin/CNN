@@ -1,0 +1,2 @@
+fc_feature_map_buffer.v,verilog,xil_defaultlib,../../../../CNN.gen/sources_1/ip/fc_feature_map_buffer/sim/fc_feature_map_buffer.v,
+glbl.v,Verilog,xil_defaultlib,glbl.v

@@ -1,0 +1,4 @@
+vhdl xil_defaultlib  \
+"../../../../CNN.gen/sources_1/ip/fc_mult/sim/fc_mult.vhd" \
+
+nosort

@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2021.1 (64-bit)
+# SW Build 3247384 on Thu Jun 10 19:36:33 MDT 2021
+# IP Build 3246043 on Fri Jun 11 00:30:35 MDT 2021
+# Start of session at: Thu Sep  1 17:11:51 2022
+# Process ID: 7800
+# Current directory: E:/Zedboard/CNN/CNN/CNN.runs/synth_1
+# Command line: vivado.exe -log CNN_top.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source CNN_top.tcl
+# Log file: E:/Zedboard/CNN/CNN/CNN.runs/synth_1/CNN_top.vds
+# Journal file: E:/Zedboard/CNN/CNN/CNN.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source CNN_top.tcl -notrace
